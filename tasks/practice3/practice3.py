@@ -124,3 +124,4 @@ def csv_reader(header: str) -> int:
             uniqueel.add(row[header])
             
     return len(uniqueel)
+    
