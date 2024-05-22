@@ -102,3 +102,4 @@ def create_request_for_loan(user_info: str) -> str:
 
     # пиши код здесь
     return result
+    
